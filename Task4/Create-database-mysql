@@ -1,0 +1,2 @@
+Create database task4;
+CREATE TABLE `task4`.`sensor` (`Value` INT NOT NULL ) ENGINE = InnoDB;
